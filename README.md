@@ -14,6 +14,9 @@ The repository is organized as follows:
 - `app.js`: The entry point of the backend server.
 <!-- - `/config`: Contains configuration files for environment variables, database connection, etc. -->
 
+## Deployment
+This project deployed on this link: 'https://walmart-api.onrender.com'
+
 ## Getting Started
 
 To get started with the backend development of the Walmart Clone project, follow these steps:
