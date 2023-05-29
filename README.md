@@ -38,10 +38,10 @@ To get started with the backend development of the Walmart Clone project, follow
   * Define the required environment variables such as database connection details, Cloudinary credentials, JWT secret, etc.
 
 4. Start the server:
-
+   ```bash
     npm start
     
-   The server should now be running on 'http://localhost:5000'. You can modify the port in the 'app.js' file if needed.
+  The server should now be running on 'http://localhost:5000'. You can modify the port in the 'app.js' file if needed.
    
 <!--## API Documentation
 For detailed information about the API routes and their usage, please refer to the API documentation. You can find the documentation in the API Documentation file. -->
