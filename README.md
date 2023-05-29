@@ -36,8 +36,6 @@ To get started with the backend development of the Walmart Clone project, follow
 
 4.Start the server:
 
-
-           ```bash
            npm start
    The server should now be running on 'http://localhost:5000'. You can modify the port in the 'app.js' file if needed.
    
