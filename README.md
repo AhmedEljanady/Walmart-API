@@ -10,9 +10,9 @@ The repository is organized as follows:
 - `/models`: Defines the data models and schemas for MongoDB.
 - `/middlewares`: Contains middleware functions for authentication, error handling, etc.
 - `/routes`: Defines the API routes and their corresponding handlers.
-<!-- - `/config`: Contains configuration files for environment variables, database connection, etc. -->
 - `/utils`: Includes utility functions used throughout the project.
 - `app.js`: The entry point of the backend server.
+<!-- - `/config`: Contains configuration files for environment variables, database connection, etc. -->
 
 ## Getting Started
 
@@ -36,7 +36,8 @@ To get started with the backend development of the Walmart Clone project, follow
 
 4.Start the server:
 
-           npm start
+    npm start
+    
    The server should now be running on 'http://localhost:5000'. You can modify the port in the 'app.js' file if needed.
    
 <!--## API Documentation
@@ -45,9 +46,9 @@ For detailed information about the API routes and their usage, please refer to t
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
- * Fork the repository.
- * Create a new branch.
- * Make your changes and commit them.
- * Push your changes to your forked repository.
- * Submit a pull request.
+ 1. Fork the repository.
+ 2. Create a new branch.
+ 3. Make your changes and commit them.
+ 4. Push your changes to your forked repository.
+ 5. Submit a pull request.
 Please make sure to adhere to the code style and follow the existing conventions.
