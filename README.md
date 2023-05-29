@@ -32,12 +32,12 @@ To get started with the backend development of the Walmart Clone project, follow
     cd walmart-clone-backend
     npm install
 
-3.Set up the environment variables:
+3. Set up the environment variables:
 
   * Create a '.env' file in the root directory.
   * Define the required environment variables such as database connection details, Cloudinary credentials, JWT secret, etc.
 
-4.Start the server:
+4. Start the server:
 
     npm start
     
